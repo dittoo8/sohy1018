@@ -1,6 +1,8 @@
 ### Hi there 👋
 [![sohy1018's github stats](https://github-readme-stats.vercel.app/api?username=sohy1018&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tsh0003)](https://solved.ac/tsh0003)
 <!--
 **sohy1018/sohy1018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
